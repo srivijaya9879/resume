@@ -1,0 +1,6 @@
+{
+  "name": "Resume Analyzer",
+  "description": "AI-powered resume evaluation and career readiness platform integrated directly with n8n cloud automation workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
